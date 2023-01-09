@@ -1,0 +1,40 @@
+[
+    {
+        "category":"Departments",
+        "color":"#0d3394",
+        "subCategories":
+        [
+            "College of Agriculture",
+            "Reginald F. Lewis College of Business",
+            "College of Education",
+            "College of Engineering and Technology",
+            "College of Humanities and Social Sciences",
+            "College of Natural and Health Sciences"
+        ]
+    },
+    {
+        "category":"Buildings",
+        "color":"#94260d",
+        "subCategories":["Hunter McDaniel Building","Engineering and Technology Building","Lula Johnson Hall"]
+    },
+    {
+        "category":"Residency",
+        "color":"#945e0d",
+        "subCategories":
+        [
+            "Freshman Housing",
+            "Upperclass Housing",
+            "Branch Hall",
+            "Otelia Howard Hall",
+            "Lucretia Campbell Hall",
+            "Langston Hall",
+            "Seward Hall",
+            "Quad I",
+            "Williams Hall",
+            "Gateway Hall",
+            "Moore Hall",
+            "Quad II",
+            "Whiting Hall"
+        ]
+    }
+]

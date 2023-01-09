@@ -1,0 +1,106 @@
+[  
+    {    "title": "Suggestion for improving study spaces on campus",    "description": "I love the campus at our university, but one thing I've noticed is that there are often not enough study spaces available. It can be really frustrating when I need a quiet place to work but can't find a spot. I think it would be great if the university could add more study spaces, especially in high-traffic areas like the library and student center. It would be a huge help for students like me who rely on these spaces to get work done.",    "tags": ["Study Spaces", "Campus Improvements"],
+    "upvotes": 10
+  },
+  {
+    "title": "Request for more vegan options in dining halls",
+    "description": "As a vegan student, I often have a hard time finding options in the dining halls that meet my dietary needs. While there are usually a few options available, they are often limited and not very varied. I would love to see more vegan options offered in the dining halls, as it can be challenging to find meals that I can eat. I'm sure I'm not the only vegan student who feels this way, and I think it would be a great improvement for the university to make.",
+    "tags": ["Vegan Options", "Dining Halls"],
+    "upvotes": 7
+  },
+  {
+    "title": "Concern about the availability of mental health resources",
+    "description": "As a student, I've noticed that it can be really difficult to access mental health resources on campus. The waiting lists for counseling services are often long, and it can be hard to find appointments that work with my schedule. I think it's important that the university prioritize mental health and make it easier for students to access the resources they need. It would be great to see more counselors available or to have more options for scheduling appointments.",
+    "tags": ["Mental Health", "Student Services"],
+    "upvotes": 5
+  },
+  {    "title": "Great course on software development",    "description": "I really enjoyed taking this course on software development. The instructor was knowledgeable and engaging, and I feel like I learned a lot. The course material was also well-organized and easy to follow. I would definitely recommend this course to others.",    "tags": ["Software Development", "Computer Science"],
+    "upvotes": 5
+  },
+  {
+    "title": "Helpful TA in math class",
+    "description": "I had a great experience in my math class this semester, thanks in large part to the helpful TA. They were always available to answer questions and provide extra support, which really made a difference for me. I feel like I learned a lot and made good progress in the class. Thank you!",
+    "tags": ["Math", "TA"],
+    "upvotes": 8
+  },
+  {
+    "title": "Would not recommend this English class",
+    "description": "I was really disappointed in this English class. The instructor seemed uninterested and unengaged, and I didn't feel like I learned very much. The course material was also confusing and not well-organized. Overall, I would not recommend this class to others.",
+    "tags": ["English", "Literature"],
+    "upvotes": 2
+  },
+  {
+    "title": "Great lab facilities in chemistry department",
+    "description": "I was really impressed by the lab facilities in the chemistry department. Everything was well-maintained and organized, and there was a good selection of equipment and materials. The TA was also helpful and knowledgeable, and I feel like I learned a lot in the lab. Overall, it was a great experience.",
+    "tags": ["Chemistry", "Lab"],
+    "upvotes": 7
+  },
+   {    "title": "Improve parking at the university",    "description": "There are not enough parking spaces on campus, which makes it difficult for students to find a place to park their cars. This can lead to frustration and stress, and it can also make it hard for students to get to class on time. I propose that the university invest in building more parking garages or finding alternative parking solutions to help alleviate this problem.",    "tags": ["parking", "transportation", "campus"],
+    "upvotes": 75
+  },
+  {
+    "title": "Increase funding for extracurricular activities",
+    "description": "Many students at our university are passionate about participating in extracurricular activities, such as sports, clubs, and organizations. However, these activities often require funding in order to be successful. I propose that the university increase its funding for extracurricular activities in order to support student involvement and provide more opportunities for students to get involved on campus.",
+    "tags": ["extracurricular", "activities", "funding"],
+    "upvotes": 50
+  },
+  {
+    "title": "Expand the dining options on campus",
+    "description": "The dining options on campus are limited and can become repetitive after a while. I propose that the university expand its dining options by adding more variety to the menu and by offering more vegan, vegetarian, and allergy-friendly options. This will provide students with more options and make it easier for them to find meals that meet their dietary needs.",
+    "tags": ["dining", "food", "campus"],
+    "upvotes": 40
+  },
+  {
+    "title": "Improve the availability of study spaces on campus",
+    "description": "There are not enough study spaces on campus, which makes it hard for students to find a quiet place to work. I propose that the university invest in creating more study spaces, such as by building more libraries or study rooms, or by converting underutilized spaces into study areas. This will provide students with more places to work and will help them to be more productive and successful.",
+    "tags": ["study", "spaces", "campus"],
+    "upvotes": 35
+  },
+  {
+    "title": "Increase the number of mental health resources on campus",
+    "description": "Mental health is an important issue for many students, and it is essential that the university provide adequate resources to support students' mental well-being. I propose that the university increase the number of mental health resources on campus, such as by hiring more mental health counselors or by offering more mental health workshops and support groups. This will help to ensure that students have the support they need to thrive.",
+    "tags": ["mental health", "well-being", "campus"],
+    "upvotes": 30
+  },
+  {
+    "title": "Improve the quality of the campus Wi-Fi",
+    "description": "The Wi-Fi on campus is often slow or unreliable, which can be frustrating for students who rely on the internet for their studies. I propose that the university invest in improving the quality of the campus Wi-Fi by upgrading the infrastructure or by adding more access points. This will make it easier for students to access the internet and will help them to be more productive.",
+    "tags": ["Wi-Fi", "internet", "campus"],
+    "upvotes": 25
+  },
+   {    "title": "Improve communication between departments",    "description": "There is often a lack of communication between departments at our university, which can lead to confusion and inefficiency. I propose that the university implement better communication systems, such as by holding regular meetings between department heads or by using a shared project management tool, in order to improve collaboration and coordination. This will help to ensure that everyone is on the same page and working towards the same goals.",    "tags": ["Departments", "communication"],
+    "upvotes": 60
+  },
+  {
+    "title": "Renovate outdated buildings on campus",
+    "description": "Some of the buildings on campus are outdated and in need of renovation. These buildings are not only aesthetically unappealing, but they can also be uncomfortable or unsafe for students. I propose that the university invest in renovating these buildings in order to improve the overall look and feel of the campus and to provide students with a better learning environment.",
+    "tags": ["Buildings", "renovation"],
+    "upvotes": 55
+  },
+  {
+    "title": "Expand social events and activities on campus",
+    "description": "There are not enough social events and activities on campus, which can make it hard for students to make friends and feel connected to the university community. I propose that the university invest in expanding its social programming by offering more events, such as concerts, movie nights, and club meetings, in order to provide more opportunities for students to socialize and have fun.",
+    "tags": ["Social", "events"],
+    "upvotes": 50
+  },
+  {
+    "title": "Improve the availability of resources for international students",
+    "description": "International students at our university often face unique challenges, such as language barriers and cultural differences. I propose that the university invest in improving the availability of resources for international students, such as by hiring more international student advisors or by offering language exchange programs, in order to support their academic and personal success.",
+    "tags": ["Miscellaneous", "international students"],
+    "upvotes": 45
+  },
+  {
+    "title": "Enhance the campus recycling program",
+    "description": "The campus recycling program is not well-organized or widely advertised, which means that many students are not aware of it or do not know how to properly recycle. I propose that the university enhance its recycling program by improving the infrastructure, such as by adding more recycling bins or by making it easier for students to recycle, and by promoting awareness and education about the importance of recycling. This will help to reduce waste and improve the sustainability of the campus.",
+    "tags": ["Miscellaneous", "recycling"],
+    "upvotes": 40
+  },
+  {
+    "title": "Increase funding for research opportunities",
+    "description": "Many students at our university are interested in pursuing research opportunities, but these opportunities often require funding in order to be feasible. I propose that the university increase its funding for research in order to provide more opportunities for students to engage in meaningful and impactful research projects. This will not only benefit the students, but it will also benefit the university by promoting its research capabilities and reputation.",
+    "tags": ["Departments", "research"],
+    "upvotes": 35
+  }
+
+
+]
